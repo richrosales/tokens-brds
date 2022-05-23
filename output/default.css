@@ -1,8 +1,8 @@
 .default-theme {
-  --font-families-headlines: Gotham;
+  --font-families-headlines: Helvetica;
   --font-families-body: Gotham;
   --font-families-nav: Gotham;
-  --font-families-documentation-headlines: Gotham;
+  --font-families-documentation-headlines: Helvetica;
   --font-families-documentation-body: Gotham;
   --font-weights-headlines-300: Light;
   --font-weights-headlines-400: Book;
