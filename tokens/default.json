@@ -422,7 +422,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#3d53f5",
+        "value": "#18a957",
         "type": "color"
       },
       "subtle": {
@@ -430,11 +430,11 @@
         "type": "color"
       },
       "muted": {
-        "value": "#6475f7",
+        "value": "#5dc389",
         "type": "color"
       },
       "emphasis": {
-        "value": "#3142c4",
+        "value": "#11763d",
         "type": "color"
       }
     },
